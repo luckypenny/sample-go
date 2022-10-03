@@ -5,5 +5,5 @@ https://woony-sik.tistory.com/12
 # NewRelic
 https://docs.newrelic.com/docs/apm/agents/go-agent/installation/install-new-relic-go/
 
-- go get github.com/newrelic/go-agent/v3/newrelic
 - 
+- go get github.com/newrelic/go-agent/v3/newrelic
